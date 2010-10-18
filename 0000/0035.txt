@@ -1,4 +1,4 @@
-Arti: Thataway!\xf000븁\x0000Hm, wait, isn't that the\xfffeway to the gym?!\xf000븁\x0000
+﻿Arty: Thataway!\xf000븁\x0000Hm, wait, isn't that\xfffethe way to the gym?!\xf000븁\x0000
 ヘイ トレーナー！\xf000븁\x0000アンタの じつりょく みたいんだ！\xfffeちょいと しょうぶ してくれよ！
 オーケー！\xfffeおどるように ファイトだぜ！\xf000븁\x0000
 なんだよ なんだよ！\xfffeノリが わるいんじゃないの
@@ -17,4 +17,4 @@ Arti: Thataway!\xf000븁\x0000Hm, wait, isn't that the\xfffeway to the gym?!\xf0
 オーケー！\xfffeレッツ ダンシング！\xf000븁\x0000
 ひとが いる けしき……\xfffeポケモンが いる けしき……\xf000븁\x0000ともに すばらしいのです\xfffeだから えを かくのです\xf000븁\x0000あっ アトリエは\xfffeモードストリートを\xf000븀\x0000すすんだところに ありますよ
 Hiun Central Square\xfffe↑ Route 4
-↓ Maude Street\xfffeHiun Icee & Hiun Art Gallery
+↓ Maude Street\xfffeHiun Ice & Hiun Art Gallery
